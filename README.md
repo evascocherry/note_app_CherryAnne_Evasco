@@ -1,1 +1,2 @@
-# note_app_CherryAnne_Evasco
+# Node app
+# Cherry Anne Evasco , BSIT 3-2
