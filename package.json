@@ -1,0 +1,21 @@
+{
+  "name": "note_app_cherryanne_evasco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evascocherry/note_app_CherryAnne_Evasco.git"
+  },
+  "author": "Cherry anne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evascocherry/note_app_CherryAnne_Evasco/issues"
+  },
+  "homepage": "https://github.com/evascocherry/note_app_CherryAnne_Evasco#readme"
+}
